@@ -12,7 +12,7 @@ import {
 
 export default props => (
   <Router>
-        <div>
+      <div>
           <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
            <Link to={'/'}class="navbar-brand" >
             <FaCalendarCheck/> TodoApp
